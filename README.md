@@ -18,3 +18,10 @@
 -----
 
 ## App Screenshots
+
+
+
+<img src="/assets/notes.png" alt="notes" width = "220" height = "420">
+&nbsp; &nbsp; &nbsp;
+<img src="/assets/add_notes.png" alt="add notes" width = "220" height = "420">
+
