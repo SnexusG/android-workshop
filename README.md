@@ -11,9 +11,10 @@
 ## Topics covered in workshop
 
 1) Android Studio IDE
-2) Activities, Resource files and other components
-3) Clean MVVM architecture
-4) Notes App with Room for SQLite database
+2) Activities, Resource files, onClickListeners and other components
+3) Recycler View
+4) Clean MVVM architecture
+5) Notes App with Room for SQLite database
 
 -----
 
