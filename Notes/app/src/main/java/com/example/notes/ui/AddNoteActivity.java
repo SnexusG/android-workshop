@@ -17,12 +17,6 @@ import com.example.notes.viewmodel.NoteViewModel;
 
 public class AddNoteActivity extends AppCompatActivity {
 
-    public static final String EXTRA_TITLE  =
-            "com.example.notesapp_test.EXTRA_TITLE";
-
-    public static final String EXTRA_DESCRIPTION  =
-            "com.example.notesapp_test.EXTRA_DESCRIPTION";
-
     private EditText editTextTitle;
     private EditText editTextDescription;
     private NoteViewModel noteViewModel;
